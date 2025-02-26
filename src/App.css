@@ -7,7 +7,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('img1.jpg');
+    background-image: url('https://img.freepik.com/free-vector/abstract-realistic-technology-particle-background_52683-33063.jpg?t=st=1740566951~exp=1740570551~hmac=1cddcb10408c0687c66d4085dcac66edf65ac86b1fdd932fa601b1a82efbbe59&w=1380');
+    /* background-image: url('https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1409.jpg?t=st=1740566395~exp=1740569995~hmac=f53445edc2f82658c3bb92b20219b52dabc3f18f6d7ed7602ef8766b5b3fa095&w=1380'); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,7 +21,7 @@ body {
     border-radius: 15px;
     background: rgba(45, 41, 3, 0.496);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(30px);
     -webkit-backdrop-filter: blur(10px);
 }
 
